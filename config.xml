@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:tizen="http://tizen.org/ns/widgets" id="http://yourdomain/finalanimal" version="1.0.0" viewmodes="maximized">
+    <tizen:application id="siOoYga4Ku.finalanimal" package="siOoYga4Ku" required_version="2.3"/>
+    <content src="first.html"/>
+    <feature name="http://tizen.org/feature/screen.size.all"/>
+    <icon src="images/playy.png"/>
+    <name>Animal Memory</name>
+    
+    <access origin="http://jquerymobile.com" subdomains="true"/>
+    <access origin="http://angularjs.org" subdomains="true"/>
+    
+   
+   
+    <access origin="*" subdomains="true"/>
+    
+    <tizen:profile name="mobile"/>
+</widget>
